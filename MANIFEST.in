@@ -1,3 +1,4 @@
 include LICENSE
 include README.md
 recursive-include docs *
+recursive-include django_rest_passwordreset/locale *.po *.mo
