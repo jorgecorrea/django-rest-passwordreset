@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-15 09:18+0000\n"
+"POT-Creation-Date: 2024-11-12 15:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,47 +17,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:28
+#: django_rest_passwordreset/models.py:28
 msgid "Password Reset Token"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:29
+#: django_rest_passwordreset/models.py:29
 msgid "Password Reset Tokens"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:44
+#: django_rest_passwordreset/models.py:44
 msgid "The User which is associated to this password reset token"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:49
+#: django_rest_passwordreset/models.py:49
 msgid "When was this token generated"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:54
+#: django_rest_passwordreset/models.py:54
 msgid "Key"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:61
+#: django_rest_passwordreset/models.py:61
 msgid "The IP address of this session"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/models.py:68
+#: django_rest_passwordreset/models.py:69
 msgid "HTTP User Agent"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/serializers.py:36
+#: django_rest_passwordreset/serializers.py:36
 msgid "The OTP password entered is not valid. Please check and try again."
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/serializers.py:45
+#: django_rest_passwordreset/serializers.py:45
 msgid "The token has expired"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/serializers.py:50
+#: django_rest_passwordreset/serializers.py:50
 msgid "Password"
 msgstr ""
 
-#: django-rest-passwordreset/django_rest_passwordreset/views.py:130
+#: django_rest_passwordreset/views.py:83
 msgid ""
 "We couldn't find an account associated with that email. Please try a "
 "different e-mail address."
